@@ -1,2 +1,8 @@
 # belajar-github
 mencoba coding
+cd belajar-github
+echo "Hello, Github" > hello.txt
+git status
+git add hello.txt
+git commit -m "Menambahkan file hello.txt pertama"
+git push origin main
